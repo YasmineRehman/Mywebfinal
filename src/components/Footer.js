@@ -6,6 +6,7 @@ export default function Footer()
         <footer style={footerStyle}>
             <div className="container">
                  <div className="row text-center">
+                 
                      <div className="col-md-12 col-lg-12 col-sm-12">
                         <p>&copy; Comapny name. All Rights Reserved.</p>       
                     </div>
